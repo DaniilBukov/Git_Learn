@@ -22,3 +22,6 @@ git pull:
 	
 update glfw:
 	git subtree pull --prefix=external/glfw glfw master --squash
+	
+change branch:
+	git checkout name
